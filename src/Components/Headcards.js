@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBRow, MDBCol, MDBCard, MDBCardBody } from 'mdb-react-ui-kit';
+//import { MDBRow, MDBCol, MDBCard, MDBCardBody } from 'mdb-react-ui-kit';
 import Carousel from 'react-bootstrap/Carousel';
 
 function Headcards() {
@@ -7,10 +7,10 @@ function Headcards() {
 		<div>
 			<Carousel interval={2000} variant='dark'>
 				<Carousel.Item>
-					<MDBRow>
+					{/* <MDBRow>
 						<MDBCol>
 							<MDBCard style={{ maxWidth: '250rem' }}>
-								<MDBCardBody>
+								<MDBCardBody> */}
 									<div className='hcard-container'>
 										<div class='service-details'>
 											<img
@@ -20,7 +20,7 @@ function Headcards() {
 											/>
 											<div className='service-hover-text'>
 												<h3>Aritra Banerjee</h3>
-												<h4></h4>
+												<h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur ad perferendis commodi nemo expedita voluptates eligendi error iure temporibus quisquam.</h4>
 												<p>
 													In 2020, Andy - a 2 year
 													old, Shih Tzu, was found
@@ -47,17 +47,17 @@ function Headcards() {
 											</div>
 										</div>
 									</div>
-								</MDBCardBody>
+								{/* </MDBCardBody>
 							</MDBCard>
 						</MDBCol>
-					</MDBRow>
+					</MDBRow> */}
 				</Carousel.Item>
 
 				<Carousel.Item>
-					<MDBRow>
+					{/* <MDBRow>
 						<MDBCol>
 							<MDBCard style={{ maxWidth: '100rem' }}>
-								<MDBCardBody>
+								<MDBCardBody> */}
 									<div className='hcard-container'>
 										<div class='service-details'>
 											<img
@@ -67,7 +67,7 @@ function Headcards() {
 											/>
 											<div className='service-hover-text'>
 												<h3>Soham Das</h3>
-												<h4></h4>
+												<h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, excepturi!</h4>
 												<p>
 													A white ball of fur with the
 													most beautiful brown eyes
@@ -90,17 +90,17 @@ function Headcards() {
 											</div>
 										</div>
 									</div>
-								</MDBCardBody>
+								{/* </MDBCardBody>
 							</MDBCard>
 						</MDBCol>
-					</MDBRow>
+					</MDBRow> */}
 				</Carousel.Item>
 
 				<Carousel.Item>
-					<MDBRow>
+					{/* <MDBRow>
 						<MDBCol>
 							<MDBCard style={{ maxWidth: '100rem' }}>
-								<MDBCardBody>
+								<MDBCardBody> */}
 									<div className='hcard-container'>
 										<div className='service-details'>
 											<div className='dog-details'>
@@ -136,10 +136,10 @@ function Headcards() {
 											</div>
 										</div>
 									</div>
-								</MDBCardBody>
+								{/* </MDBCardBody>
 							</MDBCard>
 						</MDBCol>
-					</MDBRow>
+					</MDBRow> */}
 				</Carousel.Item>
 			</Carousel>
 		</div>
