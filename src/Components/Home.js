@@ -4,7 +4,7 @@ import Headcards from './Headcards';
 function Home() {
 	return (
 		<div className='app-details'>
-            <h2></h2>
+            <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, et. Quam animi assumenda laboriosam adipisci corrupti.</h2>
             <Headcards />
             </div>
 	);
