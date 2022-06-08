@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pet-Rescue/static/css/main.fefa489d.css",
+    "main.js": "/Pet-Rescue/static/js/main.1975ac06.js",
+    "static/js/787.cacf2d3d.chunk.js": "/Pet-Rescue/static/js/787.cacf2d3d.chunk.js",
+    "static/media/doggo.jpeg": "/Pet-Rescue/static/media/doggo.347e790be3fced192609.jpeg",
+    "index.html": "/Pet-Rescue/index.html",
+    "main.fefa489d.css.map": "/Pet-Rescue/static/css/main.fefa489d.css.map",
+    "main.1975ac06.js.map": "/Pet-Rescue/static/js/main.1975ac06.js.map",
+    "787.cacf2d3d.chunk.js.map": "/Pet-Rescue/static/js/787.cacf2d3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fefa489d.css",
+    "static/js/main.1975ac06.js"
+  ]
+}
